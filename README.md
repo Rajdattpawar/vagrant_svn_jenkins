@@ -9,6 +9,7 @@ Install latest version Vagrant
 ### How to Start:
 
 Checkout https://github.com/Rajdattpawar/vagrant_svn_jenkins.git in newly created folder
+
 Run vagrant up to startup your VM
 
 Access svn repository using master.myvagrant.lcl/svn/testrepo/ by adding host entry 192.168.33.11 master.myvagrant.lcl
