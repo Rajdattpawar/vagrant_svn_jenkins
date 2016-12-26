@@ -14,3 +14,7 @@ Run vagrant up to startup your VM
 
 Access svn repository using master.myvagrant.lcl/svn/testrepo/ by adding host entry 192.168.33.11 master.myvagrant.lcl
 Access Jenkins server using master.myvagrant.lcl:8080
+
+
+
+https://programmaticponderings.com/2014/12/14/installing-puppet-master-and-agents-on-multiple-vm-using-vagrant-and-virtualbox/
